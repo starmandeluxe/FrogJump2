@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//find the earliest time a frog can jump to the destination point
+//based on the earliest index that an array of numbers makes a sequential
+//path to the destination point
 public class FrogJump2 {
 	
 	public static void main(String[] args)
